@@ -17,7 +17,11 @@
 
 ## 📸 Preview
 
-(./Assets/preview_1.png)
+![Preview Image](./Assets/preview_1.png)
+![Preview Image](./Assets/preview_2.png)
+![Preview Image](./Assets/preview_3.png)
+![Preview Image](./Assets/preview_4.png)
+![Preview Image](./Assets/preview_5.png)
 
 ---
 
