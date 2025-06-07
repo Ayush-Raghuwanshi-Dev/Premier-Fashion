@@ -17,14 +17,14 @@
 
 ## 📸 Preview
 
-![Preview Video](./Assets/preview.mp4)
+![Preview Video]()
 
 ---
 
 ## 🚀 Live Demo
 
 Check out the live demo of this project here:  
-🔗 [https://ayush-raghuwanshi-dev.github.io/PREMIER-FASHION/](https://ayush-raghuwanshi-dev.github.io/PREMIER-FASHION/)
+🔗 [https://ayush-raghuwanshi-dev.github.io/PREMIER-FASHION/](https://ayush-raghuwanshi-dev.github.io/Premier-Fashion/)
 
 ---
 
