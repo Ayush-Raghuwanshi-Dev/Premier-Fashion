@@ -17,7 +17,7 @@
 
 ## 📸 Preview
 
-![Preview Video](./Assets/preview.mp4.mp4)
+![Preview Video](./Assets/preview.mp4)
 
 ---
 
